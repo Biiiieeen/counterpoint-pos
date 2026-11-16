@@ -1,0 +1,7 @@
+data/
+*.sqlite*
+*.db*
+*.backup
+node_modules/
+.env
+coverage/
